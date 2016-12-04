@@ -19,7 +19,7 @@ For those lucky few who got a headstart on this, or found one of the ten easy AP
 
 ### Reference
 
-- For anyone who complete the [AJAX and Forms Lab](https://github.com/den-wdi-2/forms-and-ajax-lab), you have completed a lot of this work already.  See if you can take your API interaction to the next level!
+- For anyone who completed the [AJAX and Forms Lab](https://github.com/den-wdi-2/forms-and-ajax-lab), you have completed a lot of this work already.  See if you can take your API interaction to the next level!
 - The [TDD and Mocha Class](https://github.com/den-wdi-2/tdd-and-mocha) will be helpful for building any tests.
 - Not sure which API to choose?  Check out the [Programmable Web API Directory](http://www.programmableweb.com/apis/directory) or the [Public APIs Directory](http://www.publicapis.com/).
 - Looking to test your API on the front end?  Have a look at [this article](https://nicolas.perriault.net/code/2013/testing-frontend-javascript-code-using-mocha-chai-and-sinon/).
