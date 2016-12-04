@@ -5,9 +5,9 @@ For Project 2, you will need to use a 3rd Party Web API to enrich the functional
 This lab will be pretty free-form, but we are expecting you to complete the following by the end of tonight.
 
 - Research the external API for your application (such as Google Maps, Forecast.io, Omdb, Shakeitspeare, etc)
-  - If there is a tutorial for your API, you should go through it.  If there is not, you should read all the documentation and spend at least an hour making practice requests.
 - Register for an API key
 - Identify sample code to test (look for sample api calls to try)
+- If there is a tutorial for your API, you should go through it.  If there is not, you should read all the documentation and spend at least an hour making practice requests.
 - Test your requests in the browser
 - Test your requests with Postman
 - Create base Node HTTP requests to fetch/GET data
