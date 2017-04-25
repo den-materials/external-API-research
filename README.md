@@ -24,3 +24,4 @@ For those lucky few who got a headstart on this, or found one of the ten easy AP
 - Not sure which API to choose?  Check out the [Programmable Web API Directory](http://www.programmableweb.com/apis/directory) or the [Public APIs Directory](http://www.publicapis.com/).
 - Looking to test your API on the front end?  Have a look at [this article](https://nicolas.perriault.net/code/2013/testing-frontend-javascript-code-using-mocha-chai-and-sinon/).
   - **TLDR: You can use jQuery for an AJAX request and include mocha and chai the same way you include jQuery with a `<script>` tag.**
+- Here is a compilation of [notes from former students](https://github.com/den-materials/API-developer-notes) about the APIs they used.
